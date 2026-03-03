@@ -1,6 +1,7 @@
 # Supervised learning: labeled data to train a model
 
-# Linear Regression example
+# Linear Regression example: linear correlation b/w data-points
+# predicts a continuous numerical outcome (house price)
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
